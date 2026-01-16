@@ -8,7 +8,9 @@ This agent analyzes your bank statements and provides advice based on the **Cana
 
 
 ### How to use:
-1. Upload your monthly or yearly bank statement as a **CSV**.
-2. Ask questions like "Summarize my spending" or "Which of these are deductible?"
-3. The agent will run Python
+1. Go to the project on [huggingface spaces](https://huggingface.co/spaces/GN1999/Financial-Advisor). 
+2. Upload your monthly or yearly bank statement as a **CSV**.
+3. Ask questions like "Summarize my spending" or "Which of these are deductible?"
+4. The agent will run Python
+
 
